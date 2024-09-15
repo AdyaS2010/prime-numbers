@@ -48,6 +48,10 @@ Maximum: 50
 47
 ```
 
+![image](https://github.com/user-attachments/assets/20abc2ea-62d5-4608-9731-a3b567440372)
+*Once inputted a number (integer) greater than 0 as a minimum value, along with the maximum value, the program will print out all the prime numbers within that range (inclusive)!*
+*Keep in mind 1 is not classified a prime number!!! :D*
+
 ## Contributing
 1. Fork the repository.
 2. Create a new branch:
